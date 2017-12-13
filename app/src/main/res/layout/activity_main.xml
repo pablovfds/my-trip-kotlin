@@ -10,18 +10,18 @@
         android:id="@+id/edtDistance"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/distance"/>
+        android:hint="@string/distance"/>
 
     <EditText
         android:id="@+id/edtPrice"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/price"/>
+        android:hint="@string/price"/>
     <EditText
         android:id="@+id/edtAutonomy"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/autonomy"/>
+        android:hint="@string/autonomy"/>
 
     <TextView
         android:id="@+id/tvResult"
