@@ -5,4 +5,8 @@
     <string name="autonomy">Autonomia</string>
     <string name="calculate">Calcular</string>
     <string name="msg_error_valid_values">Valores invalidos</string>
+    <string name="lbl_total_km">Total de Quilometros</string>
+    <string name="lbl_price_per_liter">Preço por litro</string>
+    <string name="lbl_kms_per_liter">Kms por Litro</string>
+    <string name="lbl_total_expenditure">Seu gasto total será de:</string>
 </resources>
